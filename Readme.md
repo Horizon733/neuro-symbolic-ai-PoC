@@ -30,7 +30,7 @@ Used as the **core knowledge base**, loaded into **Neo4j** as a symbolic graph.
 ## 💡 Key Features
 
 - 🧾 Understands natural queries like:  
-  _"Plan a 3-day trip from Kansas City to New York with $1500 budget"_
+  _"Plan a 3-day trip from Kansas City to Pensacola with $1500 budget"_
   
 - 🧠 Extracts **origin**, **destination**, **budget**, **duration** using **SpaCy + regex**
 - 📖 Applies **symbolic reasoning** (rules based on city, budget, trip length)
