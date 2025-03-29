@@ -1,0 +1,6 @@
+streamlit==1.43.2
+spacy==3.8.4
+datasets==3.2.0
+neo4j==5.27.0
+requests
+huggingface-hub==0.27.0
