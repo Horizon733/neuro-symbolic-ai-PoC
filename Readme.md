@@ -70,7 +70,7 @@ python -m spacy download en_core_web_lg
 ### 3. Start Ollama
 Make sure you have Ollama installed and a model like llama3 or qwen2.5 downloaded.
 ```bash 
-ollama run llama3
+ollama run llama3.1
 ```
 
 ### 4. Load Neo4j and Import TravelPlanner Data
@@ -101,4 +101,10 @@ We apply structured, rule-based logic for:
   - Symbolic insights
   - Retrieved trips from Neo4j
 - Generates a day-by-day itinerary with natural language and cost summaries
+
+## Demo
+
+
+https://github.com/user-attachments/assets/9aa02a94-742a-4f74-9169-107f3ea2b86e
+
 
